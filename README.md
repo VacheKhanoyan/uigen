@@ -49,6 +49,23 @@ Open [http://localhost:3000](http://localhost:3000)
 4. Switch to Code view to see and edit the generated files
 5. Continue iterating with the AI to refine your components
 
+## Screenshots
+
+**Initial state — describe your component:**
+![Initial state](initial-state.png)
+
+**Generating in real-time:**
+![Generating](generating.png)
+
+**Live preview with code editor:**
+![Code view](code-view.png)
+
+**Dashboard component example:**
+![Dashboard preview](dashboard-preview.png)
+
+**Profile card component:**
+![Profile card preview](profile-card-preview.png)
+
 ## Features
 
 - AI-powered component generation using Claude
